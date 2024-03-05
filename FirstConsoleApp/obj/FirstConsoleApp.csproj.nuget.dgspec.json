@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Noice\\OneDrive - Tribhuvan University\\Attachments\\Desktop\\.NET\\FirstConsoleApp\\FirstConsoleApp.csproj": {}
+    "/home/rajani/Desktop/NewFolder/NETLearning-Rajani/FirstConsoleApp/FirstConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Noice\\OneDrive - Tribhuvan University\\Attachments\\Desktop\\.NET\\FirstConsoleApp\\FirstConsoleApp.csproj": {
+    "/home/rajani/Desktop/NewFolder/NETLearning-Rajani/FirstConsoleApp/FirstConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Noice\\OneDrive - Tribhuvan University\\Attachments\\Desktop\\.NET\\FirstConsoleApp\\FirstConsoleApp.csproj",
+        "projectUniqueName": "/home/rajani/Desktop/NewFolder/NETLearning-Rajani/FirstConsoleApp/FirstConsoleApp.csproj",
         "projectName": "FirstConsoleApp",
-        "projectPath": "C:\\Users\\Noice\\OneDrive - Tribhuvan University\\Attachments\\Desktop\\.NET\\FirstConsoleApp\\FirstConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\Noice\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Noice\\OneDrive - Tribhuvan University\\Attachments\\Desktop\\.NET\\FirstConsoleApp\\obj\\",
+        "projectPath": "/home/rajani/Desktop/NewFolder/NETLearning-Rajani/FirstConsoleApp/FirstConsoleApp.csproj",
+        "packagesPath": "/home/rajani/.nuget/packages/",
+        "outputPath": "/home/rajani/Desktop/NewFolder/NETLearning-Rajani/FirstConsoleApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Noice\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/rajani/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
